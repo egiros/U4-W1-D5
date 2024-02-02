@@ -1,0 +1,7 @@
+C:\Users\egidio\Desktop\GitHub\U4-W1-D5\U4-W1-D5\bin\Debug\U4-W1-D5.exe.config
+C:\Users\egidio\Desktop\GitHub\U4-W1-D5\U4-W1-D5\bin\Debug\U4-W1-D5.exe
+C:\Users\egidio\Desktop\GitHub\U4-W1-D5\U4-W1-D5\bin\Debug\U4-W1-D5.pdb
+C:\Users\egidio\Desktop\GitHub\U4-W1-D5\U4-W1-D5\obj\Debug\U4-W1-D5.csproj.AssemblyReference.cache
+C:\Users\egidio\Desktop\GitHub\U4-W1-D5\U4-W1-D5\obj\Debug\U4-W1-D5.csproj.CoreCompileInputs.cache
+C:\Users\egidio\Desktop\GitHub\U4-W1-D5\U4-W1-D5\obj\Debug\U4-W1-D5.exe
+C:\Users\egidio\Desktop\GitHub\U4-W1-D5\U4-W1-D5\obj\Debug\U4-W1-D5.pdb
